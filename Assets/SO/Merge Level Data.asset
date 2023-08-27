@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c73421b44962c4a4788b064898e5fae5, type: 3}
+  m_Name: Merge Level Data
+  m_EditorClassIdentifier: 
+  currFood: 100
+  creaturePrice: 15
+  cellPrice: 50
+  maxEvoLevel: 3
+  objectPref: {fileID: 940286306664080357, guid: d77b9052f5e0bd94683d3850feb34e25, type: 3}

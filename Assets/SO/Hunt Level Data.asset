@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30cee178eb79d0949a95046cf912fbe3, type: 3}
+  m_Name: Hunt Level Data
+  m_EditorClassIdentifier: 
+  currFood: 100
+  switchHunterTime: 2000
+  hunterPref: {fileID: 4080827536204369396, guid: 0e2ffbce38a4e8849835c385a2d68e06, type: 3}
+  targetsPrefs:
+  - {fileID: 2531297891548609209, guid: 32914f9a262a080438781a4ce41c1138, type: 3}
+  numPoints: 20
+  timeBetweenPoints: 0.1
+  trajectoryMask:
+    serializedVersion: 2
+    m_Bits: 0
